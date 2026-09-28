@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Vaibhavi 👋
 
-<!--
-**vaaibhavii/vaaibhavii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI & Data Science Student | Developer | Web3 Enthusiast**
 
-Here are some ideas to get you started:
+I'm a B.Tech student at **K.J. Somaiya College of Engineering**, interested in building practical products at the intersection of AI, data, and emerging technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently Exploring
+- 🤖 AI / Machine Learning
+- 🌐 Full-Stack Development
+- ⛓️ Web3 & Blockchain
+- 📊 Data Science & NLP
+- 🚀 Building products from idea to implementation
+
+### Tech Stack
+`Python` `C++` `SQL` `JavaScript` `React` `FastAPI` `Scikit-Learn` `Pandas` `Streamlit` `PostgreSQL` `Git`
+
+### Projects
+- **Corporate Transparency Analyzer** — NLP, ML & Streamlit
+- **AI Fleet Scheduler** — AI-driven scheduling platform
+- **Indian Music Trend Analysis** — Data analysis & visualization
+
+Always experimenting, building, and learning something new.
+
+### Connect with me
+[LinkedIn](https://linkedin.com/in/vaibhavi-ajila-0b2a26322)
