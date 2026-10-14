@@ -32,7 +32,7 @@ Always adding something new to this list.
 
 ### find me around the internet
 
-[GitHub](https://github.com/vaibhaviajila) · [LinkedIn](https://www.linkedin.com/in/vaibhavi-ajila) · [Email](mailto:ajilavaibhavi@gmail.com)
+ [LinkedIn](https://www.linkedin.com/in/vaibhavi-ajila) · [Email](mailto:ajilavaibhavi@gmail.com)
 
 ---
 
